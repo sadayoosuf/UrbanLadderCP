@@ -13,7 +13,7 @@ Feature: User Registration,Account Settings and Login
 
     Examples:
       | email                  | password  |
-      |sample166@demo.com      |  Hello@166 |
+      |sample167@demo.com      |  Hello@167 |
    
       
       
@@ -30,7 +30,7 @@ Feature: User Registration,Account Settings and Login
 
     Examples:
       | email                | password      | new_name   | new_mobile  | new_password      | confirm_password  |
-      |  sample166@demo.com  | Hello@166     | Aparna Ramya     | 7607533686  | Lock@166          | Lock@166         |      
+      |  sample167@demo.com  | Hello@167     | Aparna Ramya     | 7607733686  | Lock@167          | Lock@167         |      
       
       
 
@@ -44,8 +44,8 @@ Feature: User Registration,Account Settings and Login
     Examples:
       | email                | password      |
       | user8@test.com       | Hello@202     |
-      | sample166@demo.com   | Hello@022     |
-      | test86@test.com      | Lock@166      |
-      | sample166@demo.com   | Lock@166      |
+      | sample167@demo.com   | Hello@022     |
+      | test86@test.com      | Lock@167      |
+      | sample167@demo.com   | Lock@167      |
       
 
